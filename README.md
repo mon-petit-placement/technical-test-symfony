@@ -26,7 +26,7 @@ Vous devrez **exposer** une **API**.
 
 *   Gestionnaire de version : **GIT** obligatoirement
 *   Librairies externes autorisées
-*   Framework Symfony 4.x ou 5x
+*   Framework Symfony (5.x ou 6.x)
 *   Langage de programmation front libre (pour le bonus)
 *   Base de données libre
   
